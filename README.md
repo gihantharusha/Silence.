@@ -64,9 +64,6 @@ The goal is to create a digital environment where users can stay focused, build 
 * Task completion charts
 * Productivity trends
 * Consistency tracking
-* Weekly and monthly statistics
-* Personal growth insights
-
 ---
 
 ## Planned Features
