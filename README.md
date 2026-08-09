@@ -1,5 +1,5 @@
-<img width="100" height="100" alt="Logo" src="https://github.com/user-attachments/assets/7051e8a5-81da-4470-a6ea-d19902bbf6d2" />
-# Silence
+***<img width="100" height="100" alt="Logo" src="https://github.com/user-attachments/assets/7051e8a5-81da-4470-a6ea-d19902bbf6d2" />***
+
 
 **Silence** is a modern productivity and self-growth web application built for people who want to improve their lives quietly and consistently. It combines personal task management, habit tracking, journaling, reminders, analytics, and collaborative workspaces into a single platform.
 
