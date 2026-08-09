@@ -78,8 +78,6 @@ The goal is to create a digital environment where users can stay focused, build 
 * AI-powered weekly insights
 * Mood tracking
 * Accountability partner mode
-* Offline support
-* Mobile application
 
 ---
 
