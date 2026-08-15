@@ -21,7 +21,7 @@ The goal is to create a digital environment where users can stay focused, build 
 
 * Create, edit, and organize tasks
 * Set priorities and due dates
-* Create recurring (daily/weekly/monthly) tasks
+* Create recurring (daily) tasks
 * Track completed and pending tasks
 * View daily and weekly productivity summaries
 
